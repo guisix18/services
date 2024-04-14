@@ -1,0 +1,3 @@
+[submodule "client-service"]
+	path = client-service
+	url = git@github.com:guisix18/client-service.git
