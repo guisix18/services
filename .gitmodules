@@ -1,3 +1,6 @@
 [submodule "client-service"]
 	path = client-service
 	url = git@github.com:guisix18/client-service.git
+[submodule "transaction-service"]
+	path = transaction-service
+	url = git@github.com:guisix18/transaction-service.git
